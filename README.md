@@ -1,6 +1,6 @@
 ## React Native Animation Examples
 
-#### Content
+### Content
 
 1. **Fading Text** - Animation basics
 2. **Bubbles** - Introduction to interpolations
@@ -14,20 +14,14 @@
 10. **SVG PB Logo** - Animating multiple path strokes
 11. **SVG Rotating PB Logo** - Animating shapes
 
-#### Running the examples
+### Running the examples
 
-Install Expo's cli
-
-`yarn global add expo-cli` or `npm install -g expo-cli`
+Install Expo's cli - `yarn global add expo-cli` or `npm install -g expo-cli`
 
 Install the Expo client app on your iOS or Android phone and connect to the same wireless network as your computer.
 
-Install the project dependencies
+Install the project dependencies - `yarn` or `npm install`
 
-`yarn` or `npm install`
-
-Start up the development server
-
-`yarn start` or `npm run start`
+Start up the development server - `yarn start` or `npm run start`
 
 On Android, use the Expo client app to scan the QR code from your terminal to open your project. On iOS, follow on-screen instructions to get a link.
