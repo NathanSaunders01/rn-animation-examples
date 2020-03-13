@@ -16,7 +16,7 @@ const screens = [
   { title: "Spotify", screen: "Spotify" },
   { title: "Twitter", screen: "Twitter" },
   { title: "SVG Basics", screen: "SvgBasics" },
-  { title: "SVG Path", screen: "SvgDottedPath" },
+  { title: "SVG Dotted Path", screen: "SvgDottedPath" },
   { title: "SVG With Scroll", screen: "SvgWithScroll" },
   { title: "SVG Graph", screen: "SvgGraph" },
   { title: "SVG Pie Chart", screen: "SvgPieChart" },

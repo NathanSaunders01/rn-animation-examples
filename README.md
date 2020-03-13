@@ -7,7 +7,7 @@
 3. **Spotify** - Gesture handlers
 4. **Twitter** - ScrollView
 5. **SVG Basics** - SVG basics
-6. **SVG Path** - Animating an SVG path stroke
+6. **SVG Dotted Path** - Animating an SVG path stroke
 7. **SVG with Scroll** - SVG animations driven by user interactions
 8. **SVG Graph** - Interactive line graph with gesture handlers
 9. **SVG Pie Chart** - Animating a pie chart
